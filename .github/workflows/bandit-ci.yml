@@ -1,7 +1,6 @@
 name: Run bandit
 on:
-  schedule:
-    - cron: "0 0 * * *" # every day at midnight
+  pull_request:
 jobs:
   bandit-ci:
     runs-on: self-hosted
