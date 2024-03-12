@@ -1,1 +1,1 @@
-# Welcome to Fampay - Trio!
+# Welcome to FamApp - Trio!
