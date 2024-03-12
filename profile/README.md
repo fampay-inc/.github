@@ -1,1 +1,1 @@
-# Welcome to FamApp - Trio!
+# Welcome to FamApp by Trio!
